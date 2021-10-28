@@ -1,4 +1,4 @@
-# fundamentos
+# IndecisionApp
 
 ## Project setup
 ```
